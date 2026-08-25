@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "slug": "himalayan-trekking-co",
+    "client": "Himalayan Trekking Co.",
+    "industry": "Tourism & Travel",
+    "service": "Local SEO",
+    "city": "Kathmandu",
+    "challenge": "The client was on page 3 of Google for all their target keywords and losing potential customers to competitors.",
+    "solution": "We implemented a comprehensive Local SEO strategy including Google Business Profile optimization, local citation building, and on-page optimization for 20+ pages.",
+    "results": [
+      { "metric": "Organic Traffic", "value": "+280%", "period": "in 4 months" },
+      { "metric": "Keyword Rankings", "value": "#1 Position", "period": "for 8 keywords" },
+      { "metric": "Lead Generation", "value": "+190%", "period": "increase in inquiries" }
+    ],
+    "image": "/uploads/case-studies/himalayan-trekking.jpg",
+    "logo": "/uploads/case-studies/himalayan-trekking-logo.png",
+    "published": true,
+    "date": "2024-10-01"
+  },
+  {
+    "id": 2,
+    "slug": "kathmandu-handicrafts",
+    "client": "Kathmandu Handicrafts Store",
+    "industry": "E-commerce / Retail",
+    "service": "E-commerce SEO",
+    "city": "Kathmandu",
+    "challenge": "An online handicraft store with 500+ products had almost zero organic traffic and relied entirely on paid ads.",
+    "solution": "Implemented full e-commerce SEO including product page optimization, category restructuring, schema markup, and a targeted link building campaign.",
+    "results": [
+      { "metric": "Organic Revenue", "value": "+350%", "period": "in 6 months" },
+      { "metric": "Product Rankings", "value": "200+ keywords", "period": "on Page 1" },
+      { "metric": "Organic Traffic", "value": "+420%", "period": "month-over-month" }
+    ],
+    "image": "/uploads/case-studies/handicrafts.jpg",
+    "logo": "/uploads/case-studies/handicrafts-logo.png",
+    "published": true,
+    "date": "2024-08-15"
+  },
+  {
+    "id": 3,
+    "slug": "pokhara-hotel-resort",
+    "client": "Pokhara Hotel & Resort",
+    "industry": "Hospitality",
+    "service": "Local SEO",
+    "city": "Pokhara",
+    "challenge": "Hotel was invisible on Google Maps and losing bookings to competitors who ranked on the first page.",
+    "solution": "Full Local SEO overhaul: GBP optimization, review management strategy, local link building from Pokhara tourism websites, and location-specific content creation.",
+    "results": [
+      { "metric": "Google Maps", "value": "Top 3 Pack", "period": "for 'hotels in Pokhara'" },
+      { "metric": "Bookings", "value": "+200%", "period": "increase in direct bookings" },
+      { "metric": "Reviews", "value": "4.8★ Rating", "period": "on Google Business" }
+    ],
+    "image": "/uploads/case-studies/pokhara-hotel.jpg",
+    "logo": "/uploads/case-studies/pokhara-hotel-logo.png",
+    "published": true,
+    "date": "2024-06-20"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Rajesh Sharma",
+    "company": "Himalayan Trekking Co.",
+    "city": "Kathmandu",
+    "rating": 5,
+    "text": "SEO Agency Nepal transformed our online presence. Within 4 months, our website went from page 3 to position #1 for 'trekking company in Nepal'. Our inquiries increased by 280%!",
+    "image": "/uploads/testimonials/rajesh.jpg",
+    "service": "Local SEO"
+  },
+  {
+    "id": 2,
+    "name": "Priya Thapa",
+    "company": "Kathmandu Handicrafts Store",
+    "city": "Kathmandu",
+    "rating": 5,
+    "text": "Our online store was struggling to get traffic. After 3 months of their E-commerce SEO service, our organic sales increased by 350%. They are truly experts in their field!",
+    "image": "/uploads/testimonials/priya.jpg",
+    "service": "E-commerce SEO"
+  },
+  {
+    "id": 3,
+    "name": "Bikash Gurung",
+    "company": "Pokhara Hotel & Resort",
+    "city": "Pokhara",
+    "rating": 5,
+    "text": "We hired them for Local SEO and the results exceeded all expectations. We now rank #1 for 'hotels in Pokhara' and our bookings have doubled. Highly recommended!",
+    "image": "/uploads/testimonials/bikash.jpg",
+    "service": "Local SEO"
+  },
+  {
+    "id": 4,
+    "name": "Sita Rai",
+    "company": "Nepal Fashion Hub",
+    "city": "Lalitpur",
+    "rating": 5,
+    "text": "Their link building service gave our domain authority a massive boost. We went from DA 10 to DA 35 in 6 months and our rankings followed. Professional team, transparent reporting.",
+    "image": "/uploads/testimonials/sita.jpg",
+    "service": "Link Building"
+  },
+  {
+    "id": 5,
+    "name": "Amit Poudel",
+    "company": "TechNepal Solutions",
+    "city": "Bhaktapur",
+    "rating": 5,
+    "text": "Best SEO investment we ever made. Their team is knowledgeable, responsive, and the monthly reports are incredibly detailed. Our organic traffic grew by 400% in one year!",
+    "image": "/uploads/testimonials/amit.jpg",
+    "service": "Local SEO"
+  }
+]

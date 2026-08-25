@@ -1,0 +1,70 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter",
+    "tagline": "Perfect for small local businesses",
+    "price": 15000,
+    "currency": "NPR",
+    "period": "month",
+    "highlight": false,
+    "badge": "",
+    "features": [
+      "Local SEO for 1 Location",
+      "10 Target Keywords",
+      "Google Business Profile Setup",
+      "On-Page Optimization (5 pages)",
+      "Monthly Ranking Report",
+      "Basic Citation Building",
+      "Email Support"
+    ],
+    "cta": "Get Started",
+    "ctaLink": "/contact"
+  },
+  {
+    "id": "growth",
+    "name": "Growth",
+    "tagline": "Ideal for growing businesses",
+    "price": 30000,
+    "currency": "NPR",
+    "period": "month",
+    "highlight": true,
+    "badge": "Most Popular",
+    "features": [
+      "Local SEO for 3 Locations",
+      "25 Target Keywords",
+      "Full GBP Optimization & Management",
+      "On-Page Optimization (15 pages)",
+      "5 Guest Post Backlinks/month",
+      "Technical SEO Audit & Fixes",
+      "Competitor Analysis",
+      "Weekly Ranking Reports",
+      "Priority Support"
+    ],
+    "cta": "Get Started",
+    "ctaLink": "/contact"
+  },
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "tagline": "For e-commerce & large websites",
+    "price": 60000,
+    "currency": "NPR",
+    "period": "month",
+    "highlight": false,
+    "badge": "Best ROI",
+    "features": [
+      "E-commerce SEO (Unlimited Pages)",
+      "50+ Target Keywords",
+      "Advanced Link Building Campaign",
+      "Full Technical SEO",
+      "Content Strategy & Creation",
+      "Schema Markup Implementation",
+      "CRO Recommendations",
+      "Dedicated Account Manager",
+      "Daily Rank Tracking",
+      "Custom Monthly Strategy Reports"
+    ],
+    "cta": "Contact Us",
+    "ctaLink": "/contact"
+  }
+]

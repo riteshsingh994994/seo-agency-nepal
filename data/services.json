@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Full SEO Services in Nepal",
+    "headline": "Complete 360° SEO Services in Nepal",
+    "subheadline": "Master Google & AI search with comprehensive On-Page, Technical, Off-Page, Local SEO, and AI Search Optimization (GEO & AEO).",
+    "description": "Our full-suite SEO service combines all search marketing pillars — technical site architecture, keyword research, content optimization, authority link building, local Google Maps ranking, and AI search engine visibility (ChatGPT, Gemini, Perplexity).",
+    "image": "/uploads/seo-hero.jpg",
+    "features": [
+      "Technical & Core Web Vitals SEO",
+      "On-Page Content Optimization",
+      "Off-Page & Authority Link Building",
+      "Local SEO & Google Maps Ranking",
+      "Generative Engine Optimization (GEO)",
+      "Answer Engine Optimization (AEO)",
+      "Keyword & Competitor Strategy",
+      "Monthly Traffic & Conversion Audits"
+    ],
+    "process": [
+      { "step": "1", "title": "Comprehensive Audit", "desc": "We analyze technical SEO, on-page content, backlinks, and current rankings across Google & AI engines." },
+      { "step": "2", "title": "Keyword & Entity Mapping", "desc": "We map out high-intent transactional & informational search queries and semantic entity relationships." },
+      { "step": "3", "title": "Technical & Speed Optimization", "desc": "We resolve crawl errors, site speed, mobile usability, indexation issues, and structured data schemas." },
+      { "step": "4", "title": "On-Page & Semantic Content", "desc": "We craft authority content optimized for human readers, Google algorithms, and AI answer bots." },
+      { "step": "5", "title": "Link & Entity Authority", "desc": "We acquire high-DA backlinks and establish brand entity authority across digital ecosystems." },
+      { "step": "6", "title": "Track, Refine & Scale", "desc": "We monitor keyword rankings, organic traffic, leads, and AI search recommendations continuously." }
+    ],
+    "metaTitle": "SEO Services in Nepal | Full 360° On-Page, Technical & Local SEO",
+    "metaDescription": "Top SEO company in Nepal offering complete search engine optimization: Technical, On-Page, Off-Page, Local SEO, and AI Search Optimization (GEO & AEO). Free SEO audit!",
+    "cities": ["kathmandu", "pokhara", "lalitpur", "bhaktapur", "biratnagar", "chitwan", "butwal", "dharan"]
+  },
+  "local-seo": {
+    "title": "Local SEO Services in Nepal",
+    "headline": "Dominate Local Search Results in Nepal",
+    "subheadline": "Get your business to the top of Google Maps and local search results. We help Nepali businesses attract more customers from their city.",
+    "description": "Our Local SEO service is designed to help businesses rank higher in local Google search results and Google Maps. From Google Business Profile optimization to local citations and on-page optimization, we cover it all.",
+    "image": "/uploads/local-seo-hero.jpg",
+    "features": [
+      "Google Business Profile Optimization",
+      "Local Keyword Research & Targeting",
+      "NAP Citation Building & Cleanup",
+      "Local Link Building",
+      "On-Page SEO for Local Searches",
+      "Competitor Analysis",
+      "Monthly Ranking Reports",
+      "Review Management Strategy"
+    ],
+    "process": [
+      { "step": "1", "title": "Local Audit", "desc": "We analyze your current local presence, citations, and competitor rankings." },
+      { "step": "2", "title": "Keyword Strategy", "desc": "We identify high-intent local keywords your target customers are searching." },
+      { "step": "3", "title": "On-Page Optimization", "desc": "We optimize your website content, meta tags, and schema for local relevance." },
+      { "step": "4", "title": "GBP & Citations", "desc": "We optimize your Google Business Profile and build consistent local citations." },
+      { "step": "5", "title": "Link Building", "desc": "We acquire local backlinks from relevant Nepal-based websites." },
+      { "step": "6", "title": "Track & Report", "desc": "We provide monthly reports showing your rankings, traffic, and leads." }
+    ],
+    "metaTitle": "Local SEO Services in Nepal | Get Found on Google Maps",
+    "metaDescription": "Top-rated Local SEO agency in Nepal. We help your business rank higher on Google Maps and local search. Get a free local SEO audit today!",
+    "cities": ["kathmandu", "pokhara", "lalitpur", "bhaktapur", "biratnagar", "chitwan", "butwal", "dharan"]
+  },
+  "ecommerce-seo": {
+    "title": "E-commerce SEO Services in Nepal",
+    "headline": "Drive More Sales with E-commerce SEO",
+    "subheadline": "Increase your online store's organic traffic, product visibility, and revenue with our specialized e-commerce SEO strategies.",
+    "description": "Our E-commerce SEO service is built specifically for online stores in Nepal. We optimize product pages, category pages, and technical site structure to drive qualified buyers to your store.",
+    "image": "/uploads/ecommerce-seo-hero.jpg",
+    "features": [
+      "Product Page Optimization",
+      "Category Page SEO",
+      "Technical Site Architecture",
+      "E-commerce Schema Markup",
+      "Competitor Product Analysis",
+      "Internal Linking Structure",
+      "Page Speed Optimization",
+      "Monthly Revenue Reports"
+    ],
+    "process": [
+      { "step": "1", "title": "Store Audit", "desc": "Complete technical and on-page audit of your e-commerce website." },
+      { "step": "2", "title": "Product Research", "desc": "Keyword research focused on buyer-intent searches for your products." },
+      { "step": "3", "title": "Product Optimization", "desc": "Optimizing product titles, descriptions, images, and schema markup." },
+      { "step": "4", "title": "Technical SEO", "desc": "Fixing crawl issues, site speed, mobile usability, and Core Web Vitals." },
+      { "step": "5", "title": "Link Acquisition", "desc": "Building authority through e-commerce specific link building campaigns." },
+      { "step": "6", "title": "Conversion Tracking", "desc": "Setting up proper tracking to monitor traffic, sales, and ROI." }
+    ],
+    "metaTitle": "E-commerce SEO Services in Nepal | Boost Your Online Store Sales",
+    "metaDescription": "Expert E-commerce SEO agency in Nepal. We optimize your online store for higher rankings and more sales. Get your free e-commerce SEO audit!",
+    "cities": ["kathmandu", "pokhara", "lalitpur", "bhaktapur", "biratnagar", "chitwan", "butwal", "dharan"]
+  },
+  "link-building": {
+    "title": "Link Building Services in Nepal",
+    "headline": "Build Authority. Earn Rankings. Dominate Google.",
+    "subheadline": "High-quality, white-hat link building that strengthens your website's authority and drives long-term organic rankings.",
+    "description": "Link building is the backbone of a strong SEO strategy. Our team sources high-quality backlinks from authoritative, relevant websites to boost your domain authority and search engine rankings.",
+    "image": "/uploads/link-building-hero.jpg",
+    "features": [
+      "High-DA Guest Post Placements",
+      "Niche-Relevant Link Acquisition",
+      "Broken Link Building",
+      "Resource Link Building",
+      "Digital PR & Brand Mentions",
+      "Competitor Backlink Analysis",
+      "Toxic Link Disavowal",
+      "Monthly Link Reports"
+    ],
+    "process": [
+      { "step": "1", "title": "Backlink Audit", "desc": "We analyze your current backlink profile and identify gaps and toxic links." },
+      { "step": "2", "title": "Competitor Analysis", "desc": "We reverse-engineer your competitors' backlink strategies." },
+      { "step": "3", "title": "Prospect Research", "desc": "We find high-quality, niche-relevant websites for link opportunities." },
+      { "step": "4", "title": "Outreach", "desc": "Our team conducts personalized outreach to secure link placements." },
+      { "step": "5", "title": "Content Creation", "desc": "We create high-value content assets that attract natural links." },
+      { "step": "6", "title": "Reporting", "desc": "Monthly reports showing new links acquired, DA metrics, and ranking impact." }
+    ],
+    "metaTitle": "Link Building Services in Nepal | High-Quality Backlinks",
+    "metaDescription": "Professional link building agency in Nepal. We build high-quality, white-hat backlinks that boost your domain authority and Google rankings.",
+    "cities": []
+  },
+  "geo-aeo": {
+    "title": "GEO & AEO Services in Nepal",
+    "headline": "Dominate AI Search: ChatGPT, Gemini, Perplexity & Copilot",
+    "subheadline": "Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) to get your business cited as the top recommendation in AI search tools.",
+    "description": "As users shift from traditional search bars to AI assistants like ChatGPT, Google Gemini, Perplexity, and Claude, GEO & AEO position your brand as the primary authority. We optimize your content, schema, citations, and entity graph so AI tools consistently recommend your business in Nepal.",
+    "image": "/uploads/geo-aeo-hero.jpg",
+    "features": [
+      "AI Search Engine Audit (ChatGPT, Gemini, Perplexity)",
+      "Generative Engine Optimization (GEO)",
+      "Answer Engine Optimization (AEO)",
+      "Entity & Brand Knowledge Graph Optimization",
+      "Conversational Keyword & Prompt Targeting",
+      "Structured Schema & JSON-LD Entity Markup",
+      "AI Citation & Source Placement Strategy",
+      "Monthly AI Engine Visibility Reports"
+    ],
+    "process": [
+      { "step": "1", "title": "AI Visibility Audit", "desc": "We test how ChatGPT, Gemini, Perplexity & Copilot currently answer queries about your industry in Nepal." },
+      { "step": "2", "title": "Entity & Knowledge Mapping", "desc": "We establish your brand entity in Knowledge Graphs, Wikidata, Crunchbase, and industry directories." },
+      { "step": "3", "title": "Direct Answer Content", "desc": "We structure your website content with clear, concise Q&A formats that AI bots easily extract and cite." },
+      { "step": "4", "title": "Semantic & Schema Markup", "desc": "We deploy advanced JSON-LD entity schema to signal authoritative facts directly to LLM crawlers." },
+      { "step": "5", "title": "Source & Citation Outreach", "desc": "We build citations on websites that AI model training datasets index for trusted recommendations." },
+      { "step": "6", "title": "AI Prompt Monitoring", "desc": "We track prompt responses and brand citation rates across leading AI platforms monthly." }
+    ],
+    "metaTitle": "GEO & AEO Services in Nepal | ChatGPT & Gemini Optimization",
+    "metaDescription": "Leading GEO & AEO agency in Nepal. Optimize your brand to get recommended by ChatGPT, Google Gemini, Perplexity & AI search engines. Free AI audit!",
+    "cities": []
+  }
+}

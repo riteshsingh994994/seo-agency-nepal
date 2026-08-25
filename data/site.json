@@ -1,0 +1,42 @@
+{
+  "name": "SEO Agency Nepal",
+  "siteUrl": "https://seoagencynepal.com",
+  "tagline": "Nepal's #1 ROI-Driven SEO Agency",
+  "description": "Leading SEO agency in Nepal specializing in Local SEO, E-commerce SEO, and Link Building to grow your business online.",
+  "shortDescription": "We help Nepali businesses rank #1 on Google and drive real organic traffic that converts.",
+  "email": "hello@seoagencynepal.com",
+  "phone": "+977-9800000000",
+  "whatsapp": "+977-9800000000",
+  "address": {
+    "street": "Thamel, Kathmandu",
+    "city": "Kathmandu",
+    "state": "Bagmati Province",
+    "country": "Nepal",
+    "postalCode": "44600"
+  },
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "twitter": "#",
+    "youtube": "#"
+  },
+  "googleBusinessProfile": "#",
+  "googleSiteVerification": "33cYqTKhmSXG2cG2HAlsNOnfuC8iruFfPaTHgwxox4E",
+  "googleAnalyticsId": "G-CWDVVP86G1",
+  "adminPassword": "admin@123",
+  "stats": [
+    { "value": "150+", "label": "Clients Served" },
+    { "value": "300%", "label": "Avg. Traffic Growth" },
+    { "value": "5+", "label": "Years Experience" },
+    { "value": "92%", "label": "Client Retention Rate" }
+  ],
+  "heroHeadline": "Nepal's #1 SEO Agency That Delivers Real Rankings",
+  "heroSubheadline": "We specialize in Local SEO, E-commerce SEO & Link Building — driving organic traffic that actually converts for Nepali businesses.",
+  "heroCTA": "Get Free SEO Audit",
+  "heroImage": "/uploads/hero-banner.jpg",
+  "aboutHeadline": "Why Businesses in Nepal Choose Us",
+  "aboutContent": "SEO Agency Nepal is the most trusted SEO company in Nepal. We combine data-driven strategies with deep local market knowledge to deliver rankings that matter. Our team of certified SEO experts has helped 150+ businesses across Nepal dominate Google search results.",
+  "aboutImage": "/uploads/about-team.jpg",
+  "metaTitleSuffix": "| SEO Agency Nepal"
+}
